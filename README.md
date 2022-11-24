@@ -6,8 +6,7 @@ Esse projeto teve etapas como: ler e fazer o tratamento do histórico dos preço
 | -------------  | --- |
 | :sparkles: Nome        | **Challenge-Data-Science**
 | :label: Tecnologias | python, Pyspark e Google Colab (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | https://www.alura.com.br/challenges/data-science-2/semana-01-transformacao-dados-pyspark?utm_source=ActiveCampaign&utm_medium=email&utm_content=%5BChallenge+Data+Science%5D+Aula+01+Liberada%21&utm_campaign=%5BChallenges%5D+%28Dados+2a+ed+%29+Liberação+da+aula+01+%2B+convite+live+dive+coding&vgo_ee=inAyagqz2lWadUCDvVPvtr35hO7C%2FF3J%2FgQB9Uu3XAY%3D
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://wallpaperaccess.com/full/1325192.jpg#vitrinedev)
